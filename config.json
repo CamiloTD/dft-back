@@ -1,0 +1,6 @@
+{
+    "API_KEY": "1WIs7Yed2tuLX1aEQWGMn8fc9",
+    "API_SECRET": "qTfgIb0wrcmWq5v74222ziTetP0zj2PwVMemQGxvxWAbd9Csc4",
+    "CALLBACK_URL": "https://dexfreight-twitter-frontend.now.sh/login-success",
+    "DATABASE_CONNECTION_STRING": "mongodb+srv://CoralineManager:fdZp4twrPr9wS9yv@cluster0-7legi.mongodb.net/test?retryWrites=true"
+}
